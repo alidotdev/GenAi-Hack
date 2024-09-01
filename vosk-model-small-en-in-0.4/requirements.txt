@@ -1,0 +1,9 @@
+streamlit 
+whisper 
+gtts 
+pyngrok 
+audio-recorder-streamlit
+streamlit
+streamlit-chat
+deep-translator
+git+https://github.com/openai/whisper.git 
